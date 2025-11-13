@@ -1,0 +1,6 @@
+{
+  "explorer.autoReveal": true,
+  "files.exclude": {
+    "**/.git": false
+  }
+}
