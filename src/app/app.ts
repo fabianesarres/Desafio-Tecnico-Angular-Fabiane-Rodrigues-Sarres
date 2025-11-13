@@ -2,7 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import { ReactiveFormsModule, FormBuilder, FormGroup, Validators } from '@angular/forms';
 import { CommonModule } from '@angular/common';
 
-// Model: User
+
 interface User {
   userId: number;
   nomeCompleto: string;
@@ -40,7 +40,7 @@ export class App implements OnInit {
   userList: User[] = [];
   localKey: string = 'angularUsers';
   
-  // Lista de estados brasileiros
+  // Lista dos Estados brasileiros
   estados = [
     'AC', 'AL', 'AP', 'AM', 'BA', 'CE', 'DF', 'ES', 'GO', 'MA',
     'MT', 'MS', 'MG', 'PA', 'PB', 'PR', 'PE', 'PI', 'RJ', 'RN',
