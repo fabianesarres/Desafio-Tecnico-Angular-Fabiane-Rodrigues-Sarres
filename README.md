@@ -1,3 +1,35 @@
+# Desafio Técnico Angular - Fabiane Rodrigues Sarres
+
+Repositório do desafio técnico em Angular realizado por Fabiane Rodrigues Sarres.
+
+Conteúdo:
+
+- Projeto Angular com estrutura inicial
+- Instruções de execução no arquivo `README.md`
+
+## Como executar
+
+1. Instalar dependências:
+
+```
+npm install
+```
+
+2. Iniciar a aplicação:
+
+```
+npm start
+```
+
+3. Rodar testes (se houver):
+
+```
+npm test
+```
+
+---
+
+Se quiser que eu crie o repositório remoto no GitHub e faça o push, confirme se você tem o `gh` (GitHub CLI) instalado ou um token GitHub para que eu execute os comandos necessários.
 # CRUDAngularFabianeRodriguesSarres
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.3.9.
