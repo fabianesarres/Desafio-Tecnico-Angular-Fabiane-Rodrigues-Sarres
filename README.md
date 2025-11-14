@@ -22,5 +22,14 @@ Acesse a página pública do projeto (sem precisar abrir o VS Code ou instalar d
 https://fabianesarres.github.io/Desafio-Tecnico-Angular-Fabiane-Rodrigues-Sarres/
 
 ---
+Entregáveis
 
+Repositório no GitHub com instruções para execução.
+
+Comandos para rodar:
+
+npm install
+ng serve -o
+
+Repositório público ou privado com acesso para leitura/clone.
 
