@@ -23,4 +23,4 @@ https://fabianesarres.github.io/Desafio-Tecnico-Angular-Fabiane-Rodrigues-Sarres
 
 ---
 
-Se preferir que eu inclua screenshots, instruções adicionais de execução ou converta o `README.md` para uma página mais completa do site, me avise e eu atualizo.
+
